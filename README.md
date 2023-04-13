@@ -16,7 +16,7 @@
 
 This application is a single-page deployed text editor that runs in the browser. It implements methods for getting and storing data to an IndexedDB database. It is deployed via Heroku at the link below:
 
-[JATE - Just Another Text Editor (Deployed with Heroku)]()
+[OTF-Text-Editor: JATE - Just Another Text Editor (Deployed with Heroku)](https://otf-text-editor.herokuapp.com/)
 
 This project features a number of data persistence techniques which serve as redundancy in case one of the options is not supported by the browser. As such, it will also function offline. This application will use a Node.js back end and will emphasize the use of PWA. Using a package called idb (a lightweight wrapper around the IndexedDB API), this project features methods that are useful for storing and retrieving data, just like what it used by companies like Google and other big names. 
 
